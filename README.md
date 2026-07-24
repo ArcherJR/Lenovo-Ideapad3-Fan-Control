@@ -58,8 +58,4 @@ Test:
 sudo ./fan-control.sh
 ```
 
-Şifresiz çalıştırmak isterseniz / For passwordless execution:
 
-```bash
-sudo visudo
-```
