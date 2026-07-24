@@ -66,3 +66,16 @@ Başlatmak için / To start:
 ```
 
 Durdurmak için / To stop: `Ctrl+C`
+
+
+Script sonlanmadan önce fanı otomatik olarak NORMAL moda (0) döndürür. / The script automatically resets the fan to NORMAL mode (0) before terminating.
+
+## Uyarı / Disclaimer
+
+**TR:** Bu script, dizüstü bilgisayarınızın EC (Gömülü Denetleyici) fan parametrelerine doğrudan müdahale eder. Kullanımı tamamen kullanıcının sorumluluğundadır; olası donanım hasarlarından geliştirici sorumlu tutulamaz.
+
+**EN:** This script directly interacts with your laptop's EC (Embedded Controller) fan parameters. Use it entirely at your own risk; the developer is not responsible for any potential hardware damage.
+
+## License
+
+GNU General Public License v3.0
