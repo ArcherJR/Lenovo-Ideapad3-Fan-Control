@@ -79,3 +79,9 @@ Script sonlanmadan önce fanı otomatik olarak NORMAL moda (0) döndürür. / Th
 ## License
 
 GNU General Public License v3.0
+
+## Credit
+
+**TR:** Projede fanın dönüşünün kesilmesini engelleyen mantıkda https://github.com/jiarandiana0307/Lenovo-Fan-Control projesinden esinlenilmiştir.
+
+**EN:** The logic in the project that prevents the fan from stopping is inspired by the https://github.com/jiarandiana0307/Lenovo-Fan-Control project.
