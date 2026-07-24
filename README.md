@@ -41,7 +41,7 @@ git clone https://github.com/ArcherJR/Lenovo-Ideapad3-Fan-Control-Linux.git
 ```
 
 ```bash
-cd Lenovo-Ideapad3-Fan-Control
+cd Lenovo-Ideapad3-Fan-Control-Linux
 ```
 
 ```bash
