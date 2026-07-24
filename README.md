@@ -1,9 +1,14 @@
 # Lenovo-Ideapad3-Fan-Control
 
 ╔════════════════════════════════════════════════════════════════╗
+
 ║  L E N O V O - I D E A P A D 3 - F A N - C O N T R O L         ║
+
 ╚════════════════════════════════════════════════════════════════╝
+
 by ArcherJR
+
+<h1></h1>
 
 ## Projenin Hikayesi / Project Overview
 
