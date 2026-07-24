@@ -60,6 +60,7 @@ sudo ./fan-control.sh
 
 ## Kullanım / Usage
 
+Başlatmak için / To start:
 ```bash
 ./fan-control.sh
 ```
