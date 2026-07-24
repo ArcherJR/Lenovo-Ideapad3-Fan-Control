@@ -58,4 +58,10 @@ Test:
 sudo ./fan-control.sh
 ```
 
+## Kullanım / Usage
 
+```bash
+./fan-control.sh
+```
+
+Durdurmak için / To stop: `Ctrl+C`
