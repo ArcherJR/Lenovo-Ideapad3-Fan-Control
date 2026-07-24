@@ -37,7 +37,7 @@ by ArcherJR
 ## Install Guide
 
 ```bash
-git clone https://github.com/ArcherJR/Lenovo-Ideapad3-Fan-Control.git
+git clone https://github.com/ArcherJR/Lenovo-Ideapad3-Fan-Control-Linux.git
 ```
 
 ```bash
