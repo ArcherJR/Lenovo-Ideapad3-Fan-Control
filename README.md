@@ -45,7 +45,7 @@ cd Lenovo-Ideapad3-Fan-Control
 ```
 
 ```bash
-cp fan_control ~/ && cd 
+cp fan_control.sh ~/ && cd 
 ```
 
 ```bash
