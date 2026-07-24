@@ -49,20 +49,20 @@ cp fan_control ~/ && cd
 ```
 
 ```bash
-chmod +x fan-control.sh
+chmod +x fan_control.sh
 ```
 
 Test:
 
 ```bash
-sudo ./fan-control.sh
+sudo ./fan_control.sh
 ```
 
 ## Kullanım / Usage
 
 Başlatmak için / To start:
 ```bash
-./fan-control.sh
+./fan_control.sh
 ```
 
 Durdurmak için / To stop: `Ctrl+C`
