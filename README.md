@@ -1,4 +1,4 @@
-# Lenovo-Ideapad3-Fan-Control
+# Lenovo-Ideapad3-Fan-Control-Linux
 
 ╔══════════════════════════════════╗
 
