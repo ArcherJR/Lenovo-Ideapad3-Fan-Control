@@ -61,6 +61,7 @@ sudo ./fan_control.sh
 ## Opsiyonel / Optional
 
 **TR:** fan_control.sh dosyası **/** konumuna kopyalandıktan sonra git clone dosyaları silinebilir
+
 **EN:** After the fan_control.sh file is copied to the **/** location, the git clone files can be deleted.
 
 ## Kullanım / Usage
