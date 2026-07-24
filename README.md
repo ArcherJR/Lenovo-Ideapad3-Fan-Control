@@ -45,6 +45,10 @@ cd Lenovo-Ideapad3-Fan-Control
 ```
 
 ```bash
+cp fan_control ~/
+```
+
+```bash
 chmod +x fan-control.sh
 ```
 
